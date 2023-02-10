@@ -8,3 +8,4 @@
 * Datos tabulares y xgboost
 * Convolucionales
 * epidemias
+* Stock market?
