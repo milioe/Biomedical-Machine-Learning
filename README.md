@@ -7,13 +7,12 @@
 
 
 
+# ⚒️ Herramientas 
 
 | Unidad | Código | Recursos adicionales|
 |--------|--------|---------------------|
-|
+| Datos tabulares | | |
+| Convolucionales | | |
+| Series de tiempo | [`Epidemics`]() · [`Stock market?`]() | |
 
 
-* Datos tabulares y xgboost
-* Convolucionales
-* epidemias
-* Stock market?
