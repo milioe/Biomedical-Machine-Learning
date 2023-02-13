@@ -12,7 +12,7 @@
 | Unidad | Código | Recursos adicionales|
 |--------|--------|---------------------|
 | Tabular Data | | |
-| Convolutionals | | |
+| Convolutionals | [`Chest Cancer`](https://colab.research.google.com/drive/1QO-r6UlKfUMFHHg0dGakix-s4r7N1bbf?usp=sharing) | |
 | Time Series | [`Epidemics`]() · [`Stock market?`]() | |
 
 
