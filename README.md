@@ -1,4 +1,4 @@
-<img src="" alt="foto">
+<img src="https://github.com/milioe/Biomedical-Machine-Learning/blob/main/DATA/images/bioima.png" alt="foto">
 
 # Welcome to biomedical machine learning course!
 
