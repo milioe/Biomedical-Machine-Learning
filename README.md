@@ -1,6 +1,6 @@
 <img src="" alt="foto">
 
-# Welcome to biomedicine machine learning course!
+# Welcome to biomedical machine learning course!
 
 
 
