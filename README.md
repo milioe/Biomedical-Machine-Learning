@@ -11,7 +11,7 @@
 
 | Unidad | Código | Slides | Recursos adicionales|
 |--------|--------|--------|---------------------|
-| Intro a Python | | | |
+| Intro a Python | [`Zero to Hero`]() · [`Libraries`]() | | |
 | Supervised Learning | [`Iris`]() · [`Lung Cancer`](https://colab.research.google.com/drive/1yL3sWFFUvtENgzU9mFiUHFe2oomP3DQz?usp=sharing) | | |
 | Unsupervised Learning | [`Fish Market`]() | | |
 | Intro a Deep learning | [`Points & Penguins`]() | | |
